@@ -6,35 +6,36 @@ tags: VS Code
 
 ## Visual Studio Code使用Git版本控管
 
+
+
 <!--more-->
 
-### 初使化儲存庫
+### 初使化儲存庫(init)
 
 ![1](p1.png)
 
 >`> git init`
 
-![1](p1.png)
+### 暫存/捨棄變更(add)
 
->`> git add --all`
+![2](p4.png)
 
-or
+>`> git status`  
+>`> git add --all`  
+> `or`  
+>`> git add .`
 
->`> git add .`  
->`> git add status`
+### 提交(commit)
 
-![1](p1.png)
+![1](p2.png)
 
 >`> git commit -m "First commit"`  
 >`> git add status`
 
-![1](p1.png)
+### 推送(push)
+
+![1](p3.png)
 
 >`> git remote add origin http://github`  
->`> git remote -v`
-
-ssh
-
-![1](p1.png)
-
+>`> git remote -v`  
 >`> git push -u origin master`

@@ -7,11 +7,13 @@ tags:
 
 ## 使用Visual Studio Code來編輯Markdown
 
+因為工作需要使用Markdown來寫文件，就想找個工具來輔助編輯，原來平時寫程式的VS Code就可以作到。
+
 <!--more-->
 
-### 必要條件
+### 安裝工具
 
-安裝下列項目：
+必要條件：
 
 + [VS Code](https://code.visualstudio.com/download)
 
@@ -23,9 +25,9 @@ tags:
 
 ![1](p1.png)
 
-### Markdown預覽
+### 編輯/預覽
 
-安裝完成後，開始編輯Markdown，編輯的內容可直接透過VS Code來預覽
+安裝完成後，就可以開始編輯文件，編輯的內容直接透過VS Code分割劃面來預覽編輯的內容。
 
 ![2](p2.png)
 
